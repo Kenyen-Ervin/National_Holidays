@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+li{
+    border:3px solid black;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    list-style-type: none;
+}
+
+.holidays{
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+}
+
+.yellow{
+    background-color: yellow;
+    border: 2px solid black;
+    color: black;
+}
+
+.green{
+    background-color: green;
+    border: 2px solid black;
+    color: white;
+}
